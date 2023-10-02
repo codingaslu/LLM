@@ -1,0 +1,7 @@
+Haystack has pipeline and nodes.
+Langchain has Chains
+Document Sores are Vecrtore stores that seen in Langchain
+Vector Databases-Elastic Search,Weaviate,Milvers,Queued Rand ,Pinecone(paid)
+Vector Stores -faise,chroma
+pdf_preprocessing - pypdf 
+ 
