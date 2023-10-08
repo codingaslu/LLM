@@ -11,5 +11,4 @@ Question Answer Generator App using Mistral LLM,Langchain, and FastAPI
 - Inmemory Vector Store - faiss-cpu
 - python-multipart , aiofiles 
 - CTransformers - To load the llm (If u want can use llamacpp python)
-
-
+- For summarisation in langchain use load_summarize_chain(),and use type as refine
