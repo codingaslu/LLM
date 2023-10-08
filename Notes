@@ -5,3 +5,11 @@ Vector Databases-Elastic Search,Weaviate,Milvers,Queued Rand ,Pinecone(paid)
 Vector Stores -faise,chroma
 pdf_preprocessing - pypdf 
  
+-------------------------------------
+Question Answer Generator App using Mistral LLM,Langchain, and FastAPI
+
+- Inmemory Vector Store - faiss-cpu
+- python-multipart , aiofiles 
+- CTransformers - To load the llm (If u want can use llamacpp python)
+
+
